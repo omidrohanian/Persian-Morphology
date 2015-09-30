@@ -1,0 +1,66 @@
+!!!adj.lexc!!!
+
+Multichar_Symbols +Adj +N +Neg +Posv +Comp +Supr +Nom +Poss +1p +2p +3p
+
+LEXICON Root
+AdjPrefix;
+Adj;
+
+LEXICON AdjPrefix
++Neg:naa^ Adj;
++Neg:by^ Adj;‌
++Posv:baa^ Adj;
++Posv:por^ Adj; 
+
+
+LEXICON AdjInf
++Adj:0 #;
+
+
+!Adjectival Enclitics
+
++Adj+Poss+1P+Sg:^m#;
++Adj+Poss+2P+Sg:^t #;
++Adj+Poss+3P+Sg:^sh #;
++Adj+Poss+1P+Pl:^maan #;
++Adj+Poss+2P+Pl:^taan #;
++Adj+Poss+3P+Pl:^shaan #;
+
++Adj+Comp+Poss+1P+Sg:^trm #;
++Adj+Comp+Poss+2P+Sg:^trt #;
++Adj+Comp+Poss+3P+Sg:^trsh #;
++Adj+Comp+Poss+2P+Pl:^trtaan #;
++Adj+Comp+Poss+3P+Pl:^trshaan #;
+
++Adj+Supr+Poss+1P+Sg:^trynm #;
++Adj+Supr+Poss+2P+Sg:^trynt #;
++Adj+Supr+Poss+3P+Sg:^trynsh #;
++Adj+Supr+Poss+2P+Pl:^tryntaan #;
++Adj+Supr+Poss+3P+Pl:^trynshaan #;
+
+!Comparative and Superlative
++Adj+Comp:^tr #;
++Adj+Supr:^tryn #;
+
+!Derivational morphology
++Adj+Nom:^y #;
+
+
+
+
+
+
+LEXICON Adj
+
+xsth	AdjInf;
+bd		AdjInf;
+xwb		AdjInf;
+bykaar	AdjInf;
+dwwm	AdjInf;
+awwl	AdjInf;
+swwm	AdjInf;
+srd		AdjInf;
+zybaa	AdjInf;
+xwshaaynd AdjInf;
+mymwn	AdjInf;
+raast	AdjInf;

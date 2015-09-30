@@ -1,0 +1,31 @@
+!!!persian.foma!!!
+
+read lexc adj.lexc
+define adj;
+
+read lexc noun.lexc
+define n;
+
+!Combines n and adj into a single lexicon
+regex adj | n ;
+
+define Lexicon;
+
+!GafReplacement rule
+define GafReplacement h "^" -> g || _ [{aan}|{aany}|{y}];
+
+!Removes morpheme boundaries
+define Cleanup "^" -> 0; 
+
+!Composes lexicon with rules and the cleanup rule to build grammar
+define Grammar 	Lexicon	.o. 
+		GafReplacement	.o.
+               	Cleanup;
+
+regex Grammar;
+
+
+
+
+
+

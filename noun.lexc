@@ -1,0 +1,90 @@
+Multichar_Symbols +N +Sg +Pl +Indf +Poss +1P +2P +3P +Arb +F
+
+LEXICON Root
+N;
+NounPrefix;
+
+LEXICON NounPrefix
+
++Neg:naa^ N;
++Neg:by^ N;‌
++Posv:baa^ N;
++Posv:por^ N; 
+
+LEXICON NInf
+
++N+Sg:0 #;
+
+!Noun Plurals
+
++N+Pl:^haa #;
++N+Pl:^aan #;
++N+Arb+F+Pl:^aat #;
++N+Arb+Pl:^yn #;
++N+Pl+Indf:^haayy #;
++N+Pl+Indf:^aany #;
+
+!Indefinite marker
++N+Indf:^y #;
+
+!Nominal Enclitics
+
++N+Poss+1P+Sg:^m #;
++N+Poss+2P+Sg:^t #;
++N+Poss+3P+Sg:^sh #;
++N+Poss+1P+Pl:^maan #;
++N+Poss+2P+Pl:^taan #;
++N+Poss+3P+Pl:^shaan #;
+
++N+Pl+Poss+1P+Sg:^haaym #;
++N+Pl+Poss+2P+Sg:^haayt #;
++N+Pl+Poss+3P+Sg:^haaysh #;
++N+Pl+Poss+2P+Pl:^haaytaan #;
++N+Pl+Poss+3P+Pl:^haayshaan #;
+
+
+
+LEXICON N
+
+!Irregular Plurals
+ktaab+N+Pl:ktb #; !Books
+wqt+N+Pl:awqaat #; !Times
+ţrf+N+Pl:atraaf #; !Directions, Sides
+shxs+N+Pl:ashxaas #; !Persons
+mqdmh+N+Pl:mqdmaat #; !Preliminaries
+'lm+N+Pl:'lwm #; !Sciences
+wzyr+N+Pl:wzraa #; !Ministers
+lqt+N+Pl:lqaat #; !Words
+sha'r+N+Pl:sh'raa #; !Poets
+'rab+N+Pl:a'raab #; !Arabs
+
+
+!Regular Nouns
+
+prndh   NInf;
+grbh    NInf;
+dftr    NInf;
+dst		NInf;
+dyvaar	NInf;
+sbzh	NInf;
+mxzn	NInf;
+sfynh	NInf;
+bykaar	NInf;
+mbl		NInf;
+staarh  NInf;
+kaar	NInf;
+rftgr	NInf;
+xwshh	NInf;
+baaftny NInf;
+dyg		NInf;
+baank	NInf;
+maashyn NInf;
+shkst	NInf;
+rftaar  NInf;
+kaart	NInf;
+m'llm	NInf;
+ktaab	NInf;
+rvndh	NInf;
+xwb		NInf;
+mrd		NInf;
+

@@ -1,0 +1,285 @@
+Multichar_Symbols +Inf +Neg +Pos +Imp +Cn +Subjcv +Sim +PPerf +PPart +Pass +F +ObjC +1p +2p +3p +Sg +Pl
+
+LEXICON Root
++Neg+Cn:nemi~ 		V1;
++Pos+Cn:mi~ 		V1;
++Neg+Subjcv:n~ 		V1;
++Pos+Subjcv:b~		V1;
++Neg+Imp:n~			V2;
++Pos+Imp:b~			V2;
++Pos+F: 			V9inf;
++Neg+F:n~ 			V9inf;
+
++Neg+Cn:nemi~ 		V3;
++Pos+Cn:mi~ 		V3;
++Neg+Sim:n~ 		V3;
++Pos+Sim: 			V3;
++Neg+PPart:n~ 		V4;
++Pos+PPart: 		V4;
++Neg+PPerf:n~ 		V5;
++Pos+PPerf: 		V5;
++Pos+Pass: 			V6;
++Neg+Pass:n~		V6;
++Neg+Subjcv:n~ 		V7;
++Pos+Subjcv: 		V7;
+
++Inf: 				V8;
+
+
+
+LEXICON V1inf
++1p+Sg:~am	#;
++2p+Sg:~i	#;
++3p+Sg:~ad	#;
++1p+Pl:~im	#;
++2p+Pl:~id	#;
++3p+Pl:~and	#;
++1p+Sg+ObjC:~am 	ObjClitics;
++2p+Sg+ObjC:~i 		ObjClitics;
++3p+Sg+ObjC:~ad		ObjClitics;
++1p+Pl+ObjC:~im		ObjClitics;
++2p+Pl+ObjC:~id		ObjClitics;
++3p+Pl+ObjC:~and	ObjClitics;
+
+LEXICON V2inf
++Sg:0  #;
++Pl:id #;
++Sg+ObjC:0 	ObjClitics;
++Pl+ObjC:~id ObjClitics;
+
+LEXICON V3inf
++1p+Sg:~am		#;
++2p+Sg:~i		#;
++3p+Sg:0		#;
++1p+Pl:~im		#;
++2p+Pl:~id		#;
++3p+Pl:~and		#;
++1p+Sg+ObjC:~am		ObjClitics;
++2p+Sg+ObjC:~i		ObjClitics;
++3p+Sg+ObjC:0		ObjClitics;
++1p+Pl+ObjC:~im		ObjClitics;
++2p+Pl+ObjC:~id		ObjClitics;
++3p+Pl+ObjC:~and	ObjClitics;
+
+LEXICON V4inf
++1p+Sg:~eam			#;
++2p+Sg:~ei			#;
++3p+Sg:~east		#;
++1p+Pl:~eim			#;
++2p+Pl:~eid			#;
++3p+Pl:~eand		#;
++1p+Sg+ObjC:~eam		ObjClitics;
++2p+Sg+ObjC:~ei			ObjClitics;
++3p+Sg+ObjC:~east		ObjClitics;
++1p+Pl+ObjC:~eim		ObjClitics;
++2p+Pl+ObjC:~eid		ObjClitics;
++3p+Pl+ObjC:~eand		ObjClitics;
+
+LEXICON V5inf
++1p+Sg:~ebudam		#;
++2p+Sg:~ebudi		#;
++3p+Sg:~ebud 		#;
++1p+Pl:~ebudim		#;
++2p+Pl:~ebudid		#;
++3p+Pl:~ebudand		#;
++1p+Sg+ObjC:~ebudam		ObjClitics;
++2p+Sg+ObjC:~ebudi		ObjClitics;
++3p+Sg+ObjC:~ebud 		ObjClitics;
++1p+Pl+ObjC:~ebudim		ObjClitics;
++2p+Pl+ObjC:~ebudid		ObjClitics;
++3p+Pl+ObjC:~ebudand	ObjClitics;
+
+LEXICON V6inf
++1p+Sg:~eshodeam				#;
++2p+Sg:~eshodei					#;
++3p+Sg:~eshodeast				#;
++1p+Pl:~eshodeim				#;
++2p+Pl:~eshodeid				#;
++3p+Pl:~eshodeand				#;
++1p+Sg+ObjC:~eshodeam		ObjClitics;
++2p+Sg+ObjC:~eshodei		ObjClitics;
++3p+Sg+ObjC:~eshodeast		ObjClitics;
++1p+Pl+ObjC:~eshodeim		ObjClitics;
++2p+Pl+ObjC:~eshodeid		ObjClitics;
++3p+Pl+ObjC:~eshodeand		ObjClitics;
+
+LEXICON V7inf
++1p+Sg:~ebaasham			#;
++2p+Sg:~ebaashi				#;
++3p+Sg:~ebaashad 			#;
++1p+Pl:~ebaashim			#;
++2p+Pl:~ebaashid			#;
++3p+Pl:~ebaashand			#;
++1p+Sg+ObjC:~ebaasham		ObjClitics;
++2p+Sg+ObjC:~ebaashi		ObjClitics;
++3p+Sg+ObjC:~ebaashad 		ObjClitics;
++1p+Pl+ObjC:~ebaashim		ObjClitics;
++2p+Pl+ObjC:~ebaashid		ObjClitics;
++3p+Pl+ObjC:~ebaashand		ObjClitics;
+
+LEXICON V8inf
+0:an #;
+
+LEXICON V9inf
++1p+Sg:xaaham^		V9;
++2p+Sg:xaahi^		V9;
++3p+Sg:xaahad^		V9;
++1p+Pl:xaahim^		V9;
++2p+Pl:xaahid^		V9;
++3p+Pl:xaahand^		V9;
+
+LEXICON ObjClitics
++1p+Sg:~am			#;
++2p+Sg:~at			#;
++3p+Sg:~ash			#;
++1p+Pl:~emaan		#;
++2p+Pl:~etaan		#;
++3p+Pl:~eshaan		#;
+
+LEXICON V1
+
+afkan	V1inf;
+bin 	V1inf;
+bor 	V1inf;
+bu 		V1inf;
+fahmaan V1inf;
+jonb 	V1inf;
+kesh 	V1inf;
+shemor 	V1inf;
+shenaas V1inf;
+xiz 	V1inf;
+xor 	V1inf;
+zaa 	V1inf;
+
+
+
+LEXICON V2
+
+afkan	V2inf;
+bin 	V2inf;
+bor 	V2inf;
+bu 		V2inf;
+fahmaan V2inf;
+jonb 	V2inf;
+kesh 	V2inf;
+shemor 	V2inf;
+shenaas V2inf;
+xiz 	V2inf;
+xor 	V2inf;
+zaa 	V2inf;
+
+
+
+LEXICON V3
+
+afkand 		V3inf;
+baaxt 		V3inf;
+bord 		V3inf;
+borid 		V3inf;
+damid 		V3inf;
+daanest 	V3inf;
+david 		V3inf;
+gozasht 	V3inf;
+goft 		V3inf;
+kosht 		V3inf;
+mord 		V3inf;
+resid 		V3inf;
+xaabid 		V3inf;
+
+
+LEXICON V4
+
+afkand 		V4inf;
+baaxt 		V4inf;
+bord 		V4inf;
+borid 		V4inf;
+damid 		V4inf;
+daanest 	V4inf;
+david 		V4inf;
+gozasht 	V4inf;
+goft 		V4inf;
+kosht 		V4inf;
+mord 		V4inf;
+resid 		V4inf;
+xaabid 		V4inf;
+
+LEXICON V5
+
+afkand 		V5inf;
+baaxt 		V5inf;
+bord 		V5inf;
+borid 		V5inf;
+damid 		V5inf;
+daanest 	V5inf;
+david 		V5inf;
+gozasht 	V5inf;
+goft 		V5inf;
+kosht 		V5inf;
+mord 		V5inf;
+resid 		V5inf;
+xaabid 		V5inf;
+
+LEXICON V6
+
+afkand 		V6inf;
+baaxt 		V6inf;
+bord 		V6inf;
+borid 		V6inf;
+damid 		V6inf;
+daanest 	V6inf;
+david 		V6inf;
+gozasht 	V6inf;
+goft 		V6inf;
+kosht 		V6inf;
+mord 		V6inf;
+resid 		V6inf;
+xaabid 		V6inf;
+
+LEXICON V7
+
+afkand 		V7inf;
+baaxt 		V7inf;
+bord 		V7inf;
+borid 		V7inf;
+damid 		V7inf;
+daanest 	V7inf;
+david 		V7inf;
+gozasht 	V7inf;
+goft 		V7inf;
+kosht 		V7inf;
+mord 		V7inf;
+resid 		V7inf;
+xaabid 		V7inf;
+
+LEXICON V8
+
+afkand 		V8inf;
+baaxt 		V8inf;
+bord 		V8inf;
+borid 		V8inf;
+damid 		V8inf;
+daanest 	V8inf;
+david 		V8inf;
+gozasht 	V8inf;
+goft 		V8inf;
+kosht 		V8inf;
+mord 		V8inf;
+resid 		V8inf;
+xaabid 		V8inf;
+
+
+LEXICON V9
+
+afkand 		#;
+baaxt 		#;
+bord 		#;
+borid 		#;
+damid 		#;
+daanest 	#;
+david 		#;
+gozasht 	#;
+goft 		#;
+kosht 		#;
+mord 		#;
+resid 		#;
+xaabid 		#;

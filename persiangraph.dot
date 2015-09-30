@@ -1,0 +1,622 @@
+digraph A {
+rankdir = LR;
+node [shape=circle,style=filled] 0
+node [shape=circle,style=filled] 1
+node [shape=circle,style=filled] 2
+node [shape=circle,style=filled] 3
+node [shape=circle,style=filled] 4
+node [shape=circle,style=filled] 5
+node [shape=circle,style=filled] 6
+node [shape=circle,style=filled] 7
+node [shape=circle,style=filled] 8
+node [shape=circle,style=filled] 9
+node [shape=circle,style=filled] 10
+node [shape=circle,style=filled] 11
+node [shape=circle,style=filled] 12
+node [shape=circle,style=filled] 13
+node [shape=circle,style=filled] 14
+node [shape=circle,style=filled] 15
+node [shape=circle,style=filled] 16
+node [shape=circle,style=filled] 17
+node [shape=circle,style=filled] 18
+node [shape=circle,style=filled] 19
+node [shape=circle,style=filled] 20
+node [shape=circle,style=filled] 21
+node [shape=circle,style=filled] 22
+node [shape=circle,style=filled] 23
+node [shape=circle,style=filled] 24
+node [shape=circle,style=filled] 25
+node [shape=circle,style=filled] 26
+node [shape=circle,style=filled] 27
+node [shape=circle,style=filled] 28
+node [shape=circle,style=filled] 29
+node [shape=circle,style=filled] 30
+node [shape=circle,style=filled] 31
+node [shape=circle,style=filled] 32
+node [shape=circle,style=filled] 33
+node [shape=circle,style=filled] 34
+node [shape=circle,style=filled] 35
+node [shape=circle,style=filled] 36
+node [shape=circle,style=filled] 37
+node [shape=circle,style=filled] 38
+node [shape=circle,style=filled] 39
+node [shape=circle,style=filled] 40
+node [shape=circle,style=filled] 41
+node [shape=circle,style=filled] 42
+node [shape=circle,style=filled] 43
+node [shape=circle,style=filled] 44
+node [shape=circle,style=filled] 45
+node [shape=circle,style=filled] 46
+node [shape=circle,style=filled] 47
+node [shape=circle,style=filled] 48
+node [shape=circle,style=filled] 49
+node [shape=circle,style=filled] 50
+node [shape=circle,style=filled] 51
+node [shape=circle,style=filled] 52
+node [shape=circle,style=filled] 53
+node [shape=circle,style=filled] 54
+node [shape=circle,style=filled] 55
+node [shape=circle,style=filled] 56
+node [shape=circle,style=filled] 57
+node [shape=circle,style=filled] 58
+node [shape=circle,style=filled] 59
+node [shape=circle,style=filled] 60
+node [shape=circle,style=filled] 61
+node [shape=circle,style=filled] 62
+node [shape=circle,style=filled] 63
+node [shape=circle,style=filled] 64
+node [shape=circle,style=filled] 65
+node [shape=circle,style=filled] 66
+node [shape=circle,style=filled] 67
+node [shape=circle,style=filled] 68
+node [shape=circle,style=filled] 69
+node [shape=circle,style=filled] 70
+node [shape=circle,style=filled] 71
+node [shape=circle,style=filled] 72
+node [shape=circle,style=filled] 73
+node [shape=circle,style=filled] 74
+node [shape=circle,style=filled] 75
+node [shape=circle,style=filled] 76
+node [shape=circle,style=filled] 77
+node [shape=circle,style=filled] 78
+node [shape=circle,style=filled] 79
+node [shape=circle,style=filled] 80
+node [shape=circle,style=filled] 81
+node [shape=circle,style=filled] 82
+node [shape=circle,style=filled] 83
+node [shape=circle,style=filled] 84
+node [shape=circle,style=filled] 85
+node [shape=circle,style=filled] 86
+node [shape=circle,style=filled] 87
+node [shape=circle,style=filled] 88
+node [shape=circle,style=filled] 89
+node [shape=circle,style=filled] 90
+node [shape=circle,style=filled] 91
+node [shape=circle,style=filled] 92
+node [shape=circle,style=filled] 93
+node [shape=circle,style=filled] 94
+node [shape=circle,style=filled] 95
+node [shape=circle,style=filled] 96
+node [shape=circle,style=filled] 97
+node [shape=doublecircle,style=filled] 98
+node [shape=doublecircle,style=filled] 99
+node [shape=circle,style=filled] 100
+node [shape=circle,style=filled] 101
+node [shape=circle,style=filled] 102
+node [shape=circle,style=filled] 103
+node [shape=circle,style=filled] 104
+node [shape=circle,style=filled] 105
+node [shape=circle,style=filled] 106
+node [shape=circle,style=filled] 107
+node [shape=circle,style=filled] 108
+node [shape=circle,style=filled] 109
+node [shape=circle,style=filled] 110
+node [shape=circle,style=filled] 111
+node [shape=circle,style=filled] 112
+node [shape=circle,style=filled] 113
+node [shape=circle,style=filled] 114
+node [shape=circle,style=filled] 115
+node [shape=circle,style=filled] 116
+node [shape=circle,style=filled] 117
+node [shape=circle,style=filled] 118
+node [shape=doublecircle,style=filled] 119
+node [shape=circle,style=filled] 120
+node [shape=circle,style=filled] 121
+node [shape=circle,style=filled] 122
+node [shape=circle,style=filled] 123
+node [shape=circle,style=filled] 124
+node [shape=circle,style=filled] 125
+node [shape=circle,style=filled] 126
+node [shape=circle,style=filled] 127
+node [shape=circle,style=filled] 128
+node [shape=circle,style=filled] 129
+node [shape=circle,style=filled] 130
+node [shape=circle,style=filled] 131
+node [shape=circle,style=filled] 132
+node [shape=circle,style=filled] 133
+node [shape=circle,style=filled] 134
+node [shape=circle,style=filled] 135
+node [shape=circle,style=filled] 136
+node [shape=circle,style=filled] 137
+node [shape=circle,style=filled] 138
+node [shape=circle,style=filled] 139
+node [shape=circle,style=filled] 140
+node [shape=circle,style=filled] 141
+node [shape=circle,style=filled] 142
+node [shape=circle,style=filled] 143
+node [shape=circle,style=filled] 144
+node [shape=circle,style=filled] 145
+node [shape=circle,style=filled] 146
+node [shape=circle,style=filled] 147
+node [shape=circle,style=filled] 148
+node [shape=circle,style=filled] 149
+node [shape=circle,style=filled] 150
+node [shape=circle,style=filled] 151
+node [shape=circle,style=filled] 152
+node [shape=circle,style=filled] 153
+node [shape=circle,style=filled] 154
+node [shape=circle,style=filled] 155
+node [shape=circle,style=filled] 156
+node [shape=circle,style=filled] 157
+node [shape=circle,style=filled] 158
+node [shape=circle,style=filled] 159
+node [shape=circle,style=filled] 160
+node [shape=circle,style=filled] 161
+node [shape=circle,style=filled] 162
+node [shape=doublecircle,style=filled] 163
+node [shape=doublecircle,style=filled] 164
+node [shape=circle,style=filled] 165
+node [shape=circle,style=filled] 166
+node [shape=circle,style=filled] 167
+node [shape=circle,style=filled] 168
+node [shape=circle,style=filled] 169
+node [shape=circle,style=filled] 170
+node [shape=circle,style=filled] 171
+node [shape=circle,style=filled] 172
+node [shape=circle,style=filled] 173
+node [shape=circle,style=filled] 174
+node [shape=circle,style=filled] 175
+node [shape=circle,style=filled] 176
+node [shape=circle,style=filled] 177
+node [shape=circle,style=filled] 178
+node [shape=circle,style=filled] 179
+node [shape=circle,style=filled] 180
+node [shape=circle,style=filled] 181
+node [shape=circle,style=filled] 182
+node [shape=circle,style=filled] 183
+node [shape=circle,style=filled] 184
+node [shape=circle,style=filled] 185
+node [shape=circle,style=filled] 186
+node [shape=circle,style=filled] 187
+node [shape=circle,style=filled] 188
+node [shape=circle,style=filled] 189
+node [shape=circle,style=filled] 190
+node [shape=circle,style=filled] 191
+node [shape=circle,style=filled] 192
+node [shape=circle,style=filled] 193
+node [shape=circle,style=filled] 194
+node [shape=circle,style=filled] 195
+node [shape=circle,style=filled] 196
+node [shape=circle,style=filled] 197
+node [shape=circle,style=filled] 198
+node [shape=circle,style=filled] 199
+node [shape=circle,style=filled] 200
+node [shape=circle,style=filled] 201
+node [shape=circle,style=filled] 202
+node [shape=circle,style=filled] 203
+node [shape=circle,style=filled] 204
+node [shape=circle,style=filled] 205
+node [shape=circle,style=filled] 206
+node [shape=circle,style=filled] 207
+node [shape=circle,style=filled] 208
+node [shape=circle,style=filled] 209
+node [shape=circle,style=filled] 210
+node [shape=circle,style=filled] 211
+node [shape=circle,style=filled] 212
+node [shape=circle,style=filled] 213
+node [shape=circle,style=filled] 214
+node [shape=circle,style=filled] 215
+node [shape=circle,style=filled] 216
+node [shape=circle,style=filled] 217
+node [shape=circle,style=filled] 218
+node [shape=circle,style=filled] 219
+node [shape=circle,style=filled] 220
+node [shape=circle,style=filled] 221
+node [shape=circle,style=filled] 222
+node [shape=circle,style=filled] 223
+node [shape=circle,style=filled] 224
+node [shape=circle,style=filled] 225
+node [shape=circle,style=filled] 226
+node [shape=circle,style=filled] 227
+node [shape=circle,style=filled] 228
+node [shape=circle,style=filled] 229
+node [shape=circle,style=filled] 230
+node [shape=circle,style=filled] 231
+node [shape=circle,style=filled] 232
+node [shape=circle,style=filled] 233
+node [shape=circle,style=filled] 234
+node [shape=circle,style=filled] 235
+node [shape=circle,style=filled] 236
+node [shape=circle,style=filled] 237
+node [shape=circle,style=filled] 238
+node [shape=doublecircle,style=filled] 239
+0 -> 145 [label="s "];
+0 -> 83 [label="a "];
+0 -> 126 [label="m "];
+0 -> 114 [label="b "];
+0 -> 108 [label="d "];
+0 -> 100 [label="r "];
+0 -> 71 [label="z "];
+0 -> 87 [label="x "];
+0 -> 64 [label="<+Posv:p> "];
+0 -> 61 [label="<+Posv:b> <+Neg:n>\n"];
+0 -> 63 [label="<+Neg:b> "];
+0 -> 50 [label="w "];
+0 -> 40 [label="k "];
+0 -> 38 [label="l "];
+0 -> 36 [label="g "];
+0 -> 33 [label="' "];
+0 -> 7 [label="<+:p> "];
+0 -> 5 [label="<+:b> "];
+0 -> 3 [label="<+N:b> "];
+0 -> 1 [label="<+N:n> "];
+0 -> 32 [label="p "];
+0 -> 27 [label="<':a> "];
+0 -> 21 [label="<s:a> "];
+0 -> 16 [label="<ţ:a> "];
+0 -> 12 [label="<w:a> "];
+1 -> 2 [label="<e:a> "];
+2 -> 11 [label="<g:a> "];
+3 -> 4 [label="<e:y> "];
+4 -> 11 [label="<g:0> "];
+5 -> 6 [label="<P:a> "];
+6 -> 9 [label="<o:a> "];
+7 -> 8 [label="<P:o> "];
+8 -> 9 [label="<o:r> "];
+9 -> 10 [label="<s:0> "];
+10 -> 11 [label="<v:0> "];
+11 -> 60 [label="s "];
+11 -> 59 [label="m "];
+11 -> 57 [label="b "];
+11 -> 56 [label="d "];
+11 -> 55 [label="r "];
+11 -> 52 [label="x "];
+11 -> 50 [label="w "];
+11 -> 40 [label="k "];
+11 -> 38 [label="l "];
+11 -> 36 [label="g "];
+11 -> 33 [label="' "];
+11 -> 32 [label="p "];
+11 -> 27 [label="<':a> "];
+11 -> 21 [label="<s:a> "];
+11 -> 16 [label="<ţ:a> "];
+11 -> 12 [label="<w:a> "];
+12 -> 13 [label="<q:w> "];
+13 -> 14 [label="<t:q> "];
+14 -> 15 [label="<+N:a> "];
+15 -> 218 [label="<+Pl:a> "];
+16 -> 17 [label="<r:t> "];
+17 -> 18 [label="<f:r> "];
+18 -> 19 [label="<+N:a> "];
+19 -> 20 [label="<+Pl:a> "];
+20 -> 239 [label="<0:f> "];
+21 -> 22 [label="<h:s> "];
+22 -> 23 [label="<x:h> "];
+23 -> 24 [label="<s:x> "];
+24 -> 25 [label="<+N:a> "];
+25 -> 26 [label="<+Pl:a> "];
+26 -> 239 [label="<0:s> "];
+27 -> 28 [label="<r:'> "];
+28 -> 29 [label="<a:r> "];
+29 -> 30 [label="<b:a> "];
+30 -> 31 [label="<+N:a> "];
+31 -> 239 [label="<+Pl:b> "];
+32 -> 101 [label="r "];
+33 -> 34 [label="l "];
+34 -> 35 [label="<m:w> "];
+35 -> 152 [label="<+N:m> "];
+36 -> 37 [label="r "];
+37 -> 204 [label="b "];
+38 -> 39 [label="q "];
+39 -> 133 [label="<t:a> "];
+40 -> 47 [label="a "];
+40 -> 41 [label="t "];
+41 -> 45 [label="a "];
+41 -> 42 [label="<a:b> "];
+42 -> 43 [label="<a:0> "];
+43 -> 44 [label="<b:0> "];
+44 -> 152 [label="<+N:0> "];
+45 -> 46 [label="a "];
+46 -> 155 [label="b "];
+47 -> 48 [label="a "];
+48 -> 49 [label="r "];
+49 -> 155 [label="t "];
+49 -> 156 [label="<+N:0> "];
+50 -> 51 [label="z "];
+51 -> 150 [label="<y:r> "];
+52 -> 53 [label="w "];
+53 -> 54 [label="s "];
+53 -> 155 [label="b "];
+54 -> 204 [label="h "];
+55 -> 103 [label="f "];
+55 -> 101 [label="v "];
+56 -> 154 [label="s "];
+56 -> 112 [label="f "];
+56 -> 109 [label="y "];
+57 -> 120 [label="a "];
+57 -> 58 [label="y "];
+58 -> 110 [label="k "];
+59 -> 140 [label="a "];
+59 -> 139 [label="b "];
+59 -> 138 [label="r "];
+59 -> 137 [label="x "];
+59 -> 134 [label="' "];
+59 -> 130 [label="q "];
+60 -> 203 [label="b "];
+60 -> 157 [label="t "];
+60 -> 148 [label="h "];
+60 -> 146 [label="f "];
+61 -> 62 [label="<0:a> "];
+62 -> 66 [label="<0:a> "];
+63 -> 66 [label="<0:y> "];
+64 -> 65 [label="<0:o> "];
+65 -> 66 [label="<0:r> "];
+66 -> 86 [label="s "];
+66 -> 83 [label="a "];
+66 -> 82 [label="m "];
+66 -> 77 [label="b "];
+66 -> 76 [label="d "];
+66 -> 75 [label="r "];
+66 -> 71 [label="z "];
+66 -> 67 [label="x "];
+67 -> 94 [label="s "];
+67 -> 68 [label="w "];
+68 -> 69 [label="s "];
+68 -> 163 [label="b "];
+69 -> 70 [label="h "];
+70 -> 91 [label="a "];
+71 -> 72 [label="y "];
+72 -> 73 [label="b "];
+73 -> 74 [label="a "];
+74 -> 163 [label="a "];
+75 -> 105 [label="a "];
+76 -> 160 [label="w "];
+77 -> 163 [label="d "];
+77 -> 78 [label="y "];
+78 -> 79 [label="k "];
+79 -> 80 [label="a "];
+80 -> 81 [label="a "];
+81 -> 163 [label="r "];
+82 -> 127 [label="y "];
+83 -> 84 [label="w "];
+84 -> 85 [label="w "];
+85 -> 163 [label="l "];
+86 -> 162 [label="r "];
+86 -> 160 [label="w "];
+87 -> 94 [label="s "];
+87 -> 88 [label="w "];
+88 -> 89 [label="s "];
+88 -> 119 [label="b "];
+89 -> 90 [label="h "];
+90 -> 91 [label="a "];
+90 -> 210 [label="h "];
+90 -> 205 [label="<h:g> "];
+91 -> 92 [label="a "];
+92 -> 93 [label="y "];
+93 -> 162 [label="n "];
+94 -> 95 [label="t "];
+95 -> 98 [label="h "];
+95 -> 96 [label="<h:g> "];
+96 -> 97 [label="<+Adj:0> "];
+97 -> 239 [label="<+Nom:y> "];
+98 -> 99 [label="<+Adj:0> "];
+99 -> 187 [label="<+Supr:t> "];
+99 -> 174 [label="<+Comp:t> "];
+99 -> 170 [label="<+Poss:m> "];
+99 -> 168 [label="<+Poss:s> "];
+99 -> 165 [label="<+Poss:t> "];
+100 -> 105 [label="a "];
+100 -> 103 [label="f "];
+100 -> 101 [label="v "];
+101 -> 102 [label="n "];
+102 -> 204 [label="d "];
+103 -> 104 [label="t "];
+104 -> 111 [label="a "];
+104 -> 113 [label="g "];
+105 -> 106 [label="a "];
+106 -> 107 [label="s "];
+107 -> 163 [label="t "];
+108 -> 154 [label="s "];
+108 -> 160 [label="w "];
+108 -> 112 [label="f "];
+108 -> 109 [label="y "];
+109 -> 155 [label="g "];
+109 -> 110 [label="v "];
+110 -> 111 [label="a "];
+111 -> 113 [label="a "];
+112 -> 113 [label="t "];
+113 -> 155 [label="r "];
+114 -> 120 [label="a "];
+114 -> 163 [label="d "];
+114 -> 115 [label="y "];
+115 -> 116 [label="k "];
+116 -> 117 [label="a "];
+117 -> 118 [label="a "];
+118 -> 119 [label="r "];
+119 -> 156 [label="<+N:0> "];
+119 -> 164 [label="<+Adj:0> "];
+120 -> 121 [label="a "];
+121 -> 123 [label="f "];
+121 -> 122 [label="n "];
+122 -> 155 [label="k "];
+123 -> 124 [label="t "];
+124 -> 125 [label="n "];
+125 -> 155 [label="y "];
+126 -> 140 [label="a "];
+126 -> 139 [label="b "];
+126 -> 138 [label="r "];
+126 -> 137 [label="x "];
+126 -> 134 [label="' "];
+126 -> 130 [label="q "];
+126 -> 127 [label="y "];
+127 -> 128 [label="m "];
+128 -> 129 [label="w "];
+129 -> 163 [label="n "];
+130 -> 131 [label="d "];
+131 -> 132 [label="m "];
+132 -> 133 [label="<h:a> "];
+133 -> 230 [label="<+N:a> "];
+134 -> 135 [label="l "];
+135 -> 136 [label="l "];
+136 -> 155 [label="m "];
+137 -> 144 [label="z "];
+138 -> 155 [label="d "];
+139 -> 155 [label="l "];
+140 -> 141 [label="a "];
+141 -> 142 [label="s "];
+142 -> 143 [label="h "];
+143 -> 144 [label="y "];
+144 -> 155 [label="n "];
+145 -> 203 [label="b "];
+145 -> 162 [label="r "];
+145 -> 160 [label="w "];
+145 -> 157 [label="t "];
+145 -> 148 [label="h "];
+145 -> 146 [label="f "];
+146 -> 147 [label="y "];
+147 -> 204 [label="n "];
+148 -> 153 [label="k "];
+148 -> 149 [label="<a:'> "];
+149 -> 150 [label="<':r> "];
+150 -> 151 [label="<r:a> "];
+151 -> 152 [label="<+N:a> "];
+152 -> 239 [label="<+Pl:0> "];
+153 -> 154 [label="s "];
+154 -> 155 [label="t "];
+155 -> 156 [label="<+N:0> "];
+156 -> 208 [label="<+Pl:a> "];
+156 -> 235 [label="<+Poss:m> "];
+156 -> 232 [label="<+Poss:s> "];
+156 -> 231 [label="<+Poss:t> "];
+156 -> 239 [label="<+Indf:y> <+Sg:0>\n"];
+156 -> 207 [label="<+Arb:y> "];
+156 -> 229 [label="<+Arb:a> "];
+156 -> 212 [label="<+Pl:h> "];
+157 -> 158 [label="a "];
+158 -> 159 [label="a "];
+159 -> 204 [label="r "];
+160 -> 161 [label="w "];
+161 -> 163 [label="m "];
+162 -> 163 [label="d "];
+163 -> 164 [label="<+Adj:0> "];
+164 -> 239 [label="<+Nom:y> "];
+164 -> 187 [label="<+Supr:t> "];
+164 -> 174 [label="<+Comp:t> "];
+164 -> 170 [label="<+Poss:m> "];
+164 -> 168 [label="<+Poss:s> "];
+164 -> 165 [label="<+Poss:t> "];
+165 -> 167 [label="<+:a> "];
+165 -> 166 [label="<+:0> "];
+166 -> 181 [label="<2:0> "];
+167 -> 172 [label="<2:a> "];
+168 -> 169 [label="<+:h> "];
+169 -> 178 [label="<3:a> "];
+169 -> 181 [label="<3:0> "];
+170 -> 171 [label="<+:a> "];
+171 -> 172 [label="<1:a> "];
+172 -> 173 [label="<P:n> "];
+173 -> 180 [label="<+:0> "];
+174 -> 239 [label="<0:r> "];
+174 -> 175 [label="<+Poss:r> "];
+175 -> 182 [label="<+:s> "];
+175 -> 177 [label="<+:t> "];
+175 -> 176 [label="<+:m> "];
+176 -> 181 [label="<1:0> "];
+177 -> 181 [label="<2:0> "];
+177 -> 178 [label="<2:a> "];
+178 -> 179 [label="<P:a> "];
+179 -> 180 [label="<+:n> "];
+180 -> 186 [label="<P:0> "];
+181 -> 191 [label="<P:0> "];
+182 -> 183 [label="<3:h> "];
+183 -> 184 [label="<P:a> "];
+183 -> 191 [label="<P:0> "];
+184 -> 185 [label="<+:a> "];
+185 -> 186 [label="<P:n> "];
+186 -> 239 [label="<l:0> "];
+187 -> 202 [label="<0:r> "];
+187 -> 188 [label="<+Poss:r> "];
+188 -> 189 [label="<+:y> "];
+189 -> 197 [label="<3:n> "];
+189 -> 192 [label="<2:n> "];
+189 -> 190 [label="<1:n> "];
+190 -> 191 [label="<P:m> "];
+191 -> 194 [label="<+:0> "];
+192 -> 193 [label="<P:t> "];
+193 -> 195 [label="<+:a> "];
+193 -> 194 [label="<+:0> "];
+194 -> 200 [label="<S:0> "];
+195 -> 196 [label="<P:a> "];
+196 -> 239 [label="<l:n> "];
+197 -> 198 [label="<P:s> "];
+198 -> 199 [label="<+:h> "];
+199 -> 201 [label="<P:a> "];
+199 -> 200 [label="<S:0> "];
+200 -> 239 [label="<g:0> "];
+201 -> 238 [label="<l:a> "];
+202 -> 238 [label="<0:y> "];
+203 -> 204 [label="z "];
+204 -> 210 [label="h "];
+204 -> 205 [label="<h:g> "];
+205 -> 206 [label="<+N:0> "];
+206 -> 208 [label="<+Pl:a> "];
+206 -> 239 [label="<+Indf:y> "];
+206 -> 207 [label="<+Arb:y> "];
+207 -> 239 [label="<+Pl:n> "];
+208 -> 238 [label="<0:a> "];
+208 -> 209 [label="<+Indf:a> "];
+209 -> 227 [label="<0:n> "];
+210 -> 211 [label="<+N:0> "];
+211 -> 235 [label="<+Poss:m> "];
+211 -> 232 [label="<+Poss:s> "];
+211 -> 231 [label="<+Poss:t> "];
+211 -> 229 [label="<+Arb:a> "];
+211 -> 212 [label="<+Pl:h> "];
+211 -> 239 [label="<+Sg:0> "];
+212 -> 228 [label="<0:a> "];
+212 -> 225 [label="<+Indf:a> "];
+212 -> 213 [label="<+Poss:a> "];
+213 -> 219 [label="<+3P:a> "];
+213 -> 216 [label="<+2P:a> "];
+213 -> 214 [label="<+1P:a> "];
+214 -> 215 [label="<+Sg:y> "];
+215 -> 239 [label="<0:m> "];
+216 -> 218 [label="<+Sg:y> "];
+216 -> 217 [label="<+Pl:y> "];
+217 -> 222 [label="<0:t> "];
+218 -> 239 [label="<0:t> "];
+219 -> 223 [label="<+Sg:y> "];
+219 -> 220 [label="<+Pl:y> "];
+220 -> 221 [label="<0:s> "];
+221 -> 222 [label="<0:h> "];
+222 -> 234 [label="<0:a> "];
+223 -> 224 [label="<0:s> "];
+224 -> 239 [label="<0:h> "];
+225 -> 226 [label="<0:a> "];
+226 -> 227 [label="<0:y> "];
+227 -> 239 [label="<0:y> "];
+228 -> 239 [label="<0:a> "];
+229 -> 230 [label="<+F:a> "];
+230 -> 239 [label="<+Pl:t> "];
+231 -> 237 [label="<+2P:a> "];
+231 -> 236 [label="<+2P:0> "];
+232 -> 233 [label="<+3P:h> "];
+233 -> 234 [label="<+Pl:a> "];
+233 -> 239 [label="<+Sg:0> "];
+234 -> 238 [label="<0:a> "];
+235 -> 237 [label="<+1P:a> "];
+235 -> 236 [label="<+1P:0> "];
+236 -> 239 [label="<+Sg:0> "];
+237 -> 238 [label="<+Pl:a> "];
+238 -> 239 [label="<0:n> "];
+}
